@@ -1,0 +1,3 @@
+outs:
+- md5: b011c5abb710e81f9d8828041586601f
+  path: 0shot-output_test.csv
